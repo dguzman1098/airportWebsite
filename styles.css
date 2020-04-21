@@ -1,0 +1,104 @@
+.navbar {
+    background-color: #b32727f1;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.nav-item {
+    padding-left: 50px;
+    
+}
+
+a {
+    color: white;
+}
+
+#carousel-link {
+    color: black;
+    text-align: center;
+}
+
+.navbar-toggler {
+    border: 1.1px solid black;
+    background-color: rgba(241, 223, 223, 0.826);
+    width: 6%;
+}
+
+
+.container h3 {
+    text-align: center;
+    letter-spacing: 2px;
+    padding-bottom: 5%;
+}
+
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 600px;
+}
+
+ .col-md-3{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+.list-unstyled li {
+    color: black;
+}
+
+footer {
+    background-color: #b32727f1;
+}
+
+.card {
+    background-color: rgb(231, 205, 201);
+    padding: 1%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    margin-left: 25%;
+    font-family: 'Sriracha', cursive;
+
+}
+
+.card img {
+    width: 100%;
+    height: 5%;
+}
+
+.card button {
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.map-container {
+    text-align: center;
+}
+
+.contact-header {
+    text-align: center;
+    width: 100%;
+    letter-spacing: 1.5px;
+    margin-bottom: 3%;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.form-container {
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.column {
+    padding: 2%;
+
+}
+ 
